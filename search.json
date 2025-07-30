@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "General Computer Science",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "1  Reading List",
+    "section": "",
+    "text": "General",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#general",
+    "href": "reading.html#general",
+    "title": "1  Reading List",
+    "section": "",
+    "text": "Informatik - Eine einfuehrende Uebersicht, Erster Teil. Bauer, Goos",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#how-computer-technology-works",
+    "href": "reading.html#how-computer-technology-works",
+    "title": "1  Reading List",
+    "section": "How Computer Technology Works,",
+    "text": "How Computer Technology Works,\n\nHow Things Work - Computer Science Edition. Charles Bowman\nUnderstanding the Digital World. Kernighan\nFrom Computing to Computational Thinking. Wang",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#philosophical-critique-commentary",
+    "href": "reading.html#philosophical-critique-commentary",
+    "title": "1  Reading List",
+    "section": "Philosophical & Critique, Commentary",
+    "text": "Philosophical & Critique, Commentary\n\nMoths to the Flame - The Seductions of Computer Technology\nPhilosophy of Computer Science. Rapaport\nPhilosophy through Computer Science. Daniel Lim",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  }
+]
