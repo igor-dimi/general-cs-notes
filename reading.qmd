@@ -1,0 +1,21 @@
+---
+title: "Reading List"
+---
+
+
+## General
+
+* Informatik - Eine einfuehrende Uebersicht, Erster Teil. Bauer, Goos
+
+## How Computer Technology Works, 
+
+* How Things Work - Computer Science Edition. Charles Bowman
+* Understanding the Digital World. Kernighan
+* From Computing to Computational Thinking. Wang
+
+
+## Philosophical & Critique, Commentary
+
+* Moths to the Flame - The Seductions of Computer Technology
+* Philosophy of Computer Science. Rapaport
+* Philosophy through Computer Science. Daniel Lim
