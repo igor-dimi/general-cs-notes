@@ -11,6 +11,7 @@ title: "Reading List"
 * The Nature of Computation. Ira Pohl
 * Computer Science - a Mathematical Introduction. Art Lew
 * Fundamentals of Computing. Tucker
+* Discovering Computer Science - Interdisciplinary Problems, Principles, and Python Programming. Jessen Havill
 
 ## How Computer Technology Works, 
 
