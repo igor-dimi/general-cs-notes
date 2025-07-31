@@ -18,6 +18,5 @@ format:
   pdf:
     documentclass: scrreprt
 
-
 toc-depth: 4
 number-depth: 1

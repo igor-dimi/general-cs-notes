@@ -6,6 +6,11 @@ title: "Reading List"
 ## General
 
 * Informatik - Eine einfuehrende Uebersicht, Erster Teil. Bauer, Goos
+* Computer Science, an Overview. Brookshear
+* Computer Sciene - a Modern Introduction. Goldschlager
+* The Nature of Computation. Ira Pohl
+* Computer Science - a Mathematical Introduction. Art Lew
+* Fundamentals of Computing. Tucker
 
 ## How Computer Technology Works, 
 
